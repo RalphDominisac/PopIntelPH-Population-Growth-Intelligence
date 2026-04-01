@@ -11,7 +11,7 @@
 
 > Replace this with your demo GIF
 
-![Demo GIF](./assets/demo.gif)
+![Demo GIF](./assets/Demo GIF.gif)
 
 ---
 
@@ -76,6 +76,15 @@ popintelph/
 └── README.md
 ```
 
+### Flow:
+
+1. Load PSA dataset
+2. Clean + transform data
+3. Compute metrics
+4. Visualize via Streamlit
+5. Send structured prompt to Llama 3 (Ollama)
+6. Parse + render AI insights
+
 ---
 
 ## 🛠️ Installation
@@ -113,15 +122,23 @@ streamlit run app.py
 
 ### Dashboard Overview
 
-![Screenshot 1](./assets/screenshot1.png)
+![Dashboard](./assets/Main Dashboard.png)
 
-### Regional Analysis
+### Select Region Dropdown
 
-![Screenshot 2](./assets/screenshot2.png)
+![Select Region Dropdown](./assets/Select Region Dropdown.png)
+
+### Regional Growth Rate & Analysis
+
+![Regional Growth Rate & Analysis](./assets/Region Selection and Growth Rates.png)
+
+### Growth Trend Graph
+
+![Growth Trend Graph](./assets/Analysis and Growth Trend.png)
 
 ### AI Insight Panel
 
-![Screenshot 3](./assets/screenshot3.png)
+![AI Insight Panel](./assets/AI Insight.png)
 
 ---
 
