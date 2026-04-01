@@ -9,20 +9,8 @@
 
 ## 🎬 Demo
 
-> Replace this with your demo GIF
 
-![Demo GIF](./assets/Demo-GIF.gif)
-
----
-
-### Flow:
-
-1. Load PSA dataset
-2. Clean + transform data
-3. Compute metrics
-4. Visualize via Streamlit
-5. Send structured prompt to Llama 3 (Ollama)
-6. Parse + render AI insights
+![Demo GIF](./assets/demo.gif)
 
 ---
 
@@ -117,8 +105,6 @@ streamlit run app.py
 ---
 
 ## 📸 Screenshots
-
-> Add your screenshots below
 
 ### Dashboard Overview
 
