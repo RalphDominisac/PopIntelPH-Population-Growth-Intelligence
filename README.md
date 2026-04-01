@@ -126,7 +126,7 @@ streamlit run app.py
 
 ### Growth Trend Graph
 
-![Growth Trend Graph](./assets/Analysis-and-Growth-Trend.png)
+![Growth Trend Graph](./assets/Growth-Trend-Graph.png)
 
 ### AI Insight Panel
 
