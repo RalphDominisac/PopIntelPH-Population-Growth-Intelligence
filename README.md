@@ -33,12 +33,6 @@
 
 ---
 
-## 🧠 Architecture
-
-> Replace with your architecture diagram image
-
-![Architecture](./assets/architecture.png)
-
 ### Flow:
 
 1. Load PSA dataset
