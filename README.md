@@ -11,7 +11,7 @@
 
 > Replace this with your demo GIF
 
-![Demo GIF](./assets/Demo GIF.gif)
+![Demo GIF](./assets/Demo-GIF.gif)
 
 ---
 
@@ -122,23 +122,23 @@ streamlit run app.py
 
 ### Dashboard Overview
 
-![Dashboard](./assets/Main Dashboard.png)
+![Dashboard](./assets/Main-Dashboard.png)
 
 ### Select Region Dropdown
 
-![Select Region Dropdown](./assets/Select Region Dropdown.png)
+![Select Region Dropdown](./assets/Select-Region-Dropdown.png)
 
 ### Regional Growth Rate & Analysis
 
-![Regional Growth Rate & Analysis](./assets/Region Selection and Growth Rates.png)
+![Regional Growth Rate & Analysis](./assets/Region-Selection-and-Growth-Rates.png)
 
 ### Growth Trend Graph
 
-![Growth Trend Graph](./assets/Analysis and Growth Trend.png)
+![Growth Trend Graph](./assets/Analysis-and-Growth-Trend.png)
 
 ### AI Insight Panel
 
-![AI Insight Panel](./assets/AI Insight.png)
+![AI Insight Panel](./assets/AI-Insight.png)
 
 ---
 
