@@ -10,7 +10,7 @@
 ## 🎬 Demo
 
 
-![Demo GIF](./assets/demo.gif)
+![Demo](./assets/demo.gif)
 
 ---
 
