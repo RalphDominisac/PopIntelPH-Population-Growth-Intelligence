@@ -15,24 +15,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> Add your screenshots below
-
-### Dashboard Overview
-
-![Screenshot 1](./assets/screenshot1.png)
-
-### Regional Analysis
-
-![Screenshot 2](./assets/screenshot2.png)
-
-### AI Insight Panel
-
-![Screenshot 3](./assets/screenshot3.png)
-
----
-
 ### Flow:
 
 1. Load PSA dataset
@@ -122,6 +104,24 @@ ollama run llama3
 ```bash
 streamlit run app.py
 ```
+
+---
+
+## 📸 Screenshots
+
+> Add your screenshots below
+
+### Dashboard Overview
+
+![Screenshot 1](./assets/screenshot1.png)
+
+### Regional Analysis
+
+![Screenshot 2](./assets/screenshot2.png)
+
+### AI Insight Panel
+
+![Screenshot 3](./assets/screenshot3.png)
 
 ---
 
