@@ -20,7 +20,7 @@ PopIntelPH is a data analytics dashboard that analyzes regional population growt
 
 The dataset is based on the Philippine Statistics Authority’s 2020 Census-Based Population Projections (CBPP), released on January 13, 2026, which estimate regional population growth (2020–2035) using the cohort-component method incorporating fertility, mortality, and migration trends.
 
-![Dataset](./assets/dataset-pic.png)
+![Dataset](./assets/dataset-screenshot.png)
 
 This project specifically utilizes Table 2 (Average Annual Population Growth Rates) from the PSA dataset, as it directly provides summarized regional growth trends across defined time intervals (2020–2035). Unlike other tables that contain detailed demographic breakdowns (e.g., age groups or sex), Table 2 is already structured for comparative analysis, making it ideal for visualization, categorization, and AI-driven insights.
 
