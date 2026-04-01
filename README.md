@@ -24,7 +24,18 @@ Inside this repo may also contain extra miscellanous data for more information a
 
 ---
 
-## 🚀 Features
+## ➡️ Flow:
+
+1. Load PSA dataset
+2. Clean + transform data
+3. Compute metrics
+4. Visualize via Streamlit
+5. Send structured prompt to Llama 3 (Ollama)
+6. Parse + render AI insights
+
+---
+
+## ✅ Features
 
 - 📈 Interactive dashboard
 - 🏆 Top growth detection
@@ -63,15 +74,6 @@ popintelph/
 ├── requirements.txt
 └── README.md
 ```
-
-### Flow:
-
-1. Load PSA dataset
-2. Clean + transform data
-3. Compute metrics
-4. Visualize via Streamlit
-5. Send structured prompt to Llama 3 (Ollama)
-6. Parse + render AI insights
 
 ---
 
