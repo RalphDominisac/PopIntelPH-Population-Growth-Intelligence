@@ -20,6 +20,8 @@ PopIntelPH is a data analytics dashboard that analyzes regional population growt
 
 It combines data visualization, statistical analysis, and features an AI-powered analysis using a local AI model (Llama 3 via Ollama) to generate actionable policy insights for each region.
 
+The dataset is based on the Philippine Statistics Authority’s 2020 Census-Based Population Projections (CBPP), released on January 13, 2026, which estimate regional population growth (2020–2035) using the cohort-component method incorporating fertility, mortality, and migration trends.
+
 Inside this repo may also contain extra miscellanous data for more information about the origins of the dataset that was utilized in this project.
 
 ---
