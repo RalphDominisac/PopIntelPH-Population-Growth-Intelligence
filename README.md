@@ -1,4 +1,4 @@
-# 📊 PopIntelPH: Population Growth Intelligence
+# PopIntelPH: Population Growth Intelligence
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
@@ -7,14 +7,14 @@
 
 ---
 
-## 🎬 Demo
+## Demo
 
 
 ![Demo](./assets/demo.gif)
 
 ---
 
-## 🚀 Overview
+## Overview
 
 PopIntelPH is a data analytics dashboard that analyzes regional population growth trends in the Philippines using official data from the Philippine Statistics Authority (PSA). It combines data visualization, statistical analysis, and features an AI-powered analysis using a local AI model (Llama 3 via Ollama) to generate actionable policy insights for each region.
 
@@ -28,7 +28,7 @@ Inside this repo may also contain extra miscellanous data for more information a
 
 ---
 
-## ➡️ Flow:
+## Flow:
 
 1. Load PSA dataset
 2. Clean + transform data
@@ -39,17 +39,17 @@ Inside this repo may also contain extra miscellanous data for more information a
 
 ---
 
-## ✅ Features
+## Features
 
-- 📈 Interactive dashboard
-- 🏆 Top growth detection
-- 📊 Statistical insights
-- 📉 Trend visualization
-- 🤖 AI-generated insights (local LLM)
+- Interactive dashboard
+- Top growth detection
+- Statistical insights
+- Trend visualization
+- AI-generated insights (local LLM)
 
 ---
 
-## 🧠 AI Integration
+## AI Integration
 
 - Ollama (local runtime)
 - Llama 3 model
@@ -58,7 +58,7 @@ Inside this repo may also contain extra miscellanous data for more information a
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 popintelph/
@@ -81,7 +81,7 @@ popintelph/
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/popintelph.git
@@ -93,7 +93,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🤖 Setup Ollama
+## Setup Ollama
 
 ```bash
 ollama pull llama3
@@ -102,7 +102,7 @@ ollama run llama3
 
 ---
 
-## ▶️ Run
+## Run
 
 ```bash
 streamlit run app.py
@@ -110,7 +110,7 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Dashboard Overview
 
@@ -134,13 +134,13 @@ streamlit run app.py
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - Requires local Ollama
 - Not cloud-deployable (without server setup)
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Ralph Henry L. Dominisac
